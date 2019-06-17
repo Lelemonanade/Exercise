@@ -1,9 +1,11 @@
 G checkBread
 Butter
 Milk
+Cheese
 
 Eggs
 Salad
+Small tomatoes
 
 Extra tomatoes
 Extra cherries
